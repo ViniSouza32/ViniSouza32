@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vinícius</h1>
 <h3 align="center">I'm a full-stack developer making what i love, all the codes that you'll see in my profile are creations made to study and have fun programming. In my career i don't have much yet 'cause i started making projects this year (2023), and i really like a good puzzle.</h3>
 
+<div>
+  <a herf="https://github.com/ViniSouza32">
+    <img height="180em" src="https://github-readme-status.vercel.app/api?username=vinisouza32&show_icons=true=dracula&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-status.vercel.app/top-langs/?username=vinisouza32&layout=compact&langs_count16&themedracula">
+</div>
+
 - 📫 How to reach me **vinischafer32@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
