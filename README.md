@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vinícius</h1>
-<h3 align="center">I'm a full-stack developer making what i love, all the codes that you'll see in my profile are creations made to study and have fun programming. In my career i don't have much yet 'cause i started making projects this year (2023), and i really like a good puzzle.</h3>
+<h3 align="center">        Hello! I'm a software engineer proficient in both back-end and front-end
+        programming. Currently 19 years old, I have graduated from high school
+        and completed a development course called CRIE_TI at the Brazilian
+        university Univates. Although I am not currently employed, I gained
+        valuable experience as an administrative assistant at Minuano Alimentos.
+        I participated in a program called "Jovem Aprendiz", which provides
+        opportunities for young people to learn about working environments and
+        the fundamental responsibilities of an administrative assistant.</h3>
 
 <div>
     <a herf="https://github.com/ViniSouza32">
