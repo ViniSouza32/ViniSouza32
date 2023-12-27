@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Vinícius</h1>
-<h3 align="center">        Hello! I'm a software engineer proficient in both back-end and front-end
+<h3 align="center">Hello! I'm a software engineer proficient in both back-end and front-end
         programming. Currently 19 years old, I have graduated from high school
         and completed a development course called CRIE_TI at the Brazilian
         university Univates. Although I am not currently employed, I gained
         valuable experience as an administrative assistant at Minuano Alimentos.
         I participated in a program called "Jovem Aprendiz", which provides
         opportunities for young people to learn about working environments and
-        the fundamental responsibilities of an administrative assistant.</h3>
+        the fundamental responsibilities of an administrative assistant.
+</h3>
 
 <div>
     <a herf="https://github.com/ViniSouza32">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinisouza32&show_icons=true&theme=radical">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisouza32&layout=compact&langs_count16&theme=radical">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinisouza32&show_icons=true&theme=merko">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisouza32&layout=compact&langs_count16&theme=merko">
     </a>
 </div>
 
